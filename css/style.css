@@ -1,0 +1,48 @@
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    color: black;
+    display: inline;
+    position: absolute; top: -10px;
+    
+    
+}
+
+.logo{
+    width: 140px;
+    margin-left: 30px;
+}
+
+.mainpage{
+    background-color: azure;
+}
+
+.bar{
+    background-color: white;
+    shape-margin: 50px;
+    padding: 50px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+}
+
+.buttons{
+    text-align: left;
+}
+
+.center{
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+}
+
+.container{
+    background-color: azure;
+}
+
+.c1{
+    background-color: deepskyblue;
+    border-radius: 10%;
+}
