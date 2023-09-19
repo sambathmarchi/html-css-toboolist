@@ -8,6 +8,10 @@
     
 }
 
+.hbar{
+    background-color: white;
+}
+
 .logo{
     width: 140px;
     margin-left: 30px;
@@ -15,6 +19,7 @@
 
 .mainpage{
     background-color: azure;
+    padding: 100px;
 }
 
 .bar{
@@ -28,7 +33,7 @@
 }
 
 .buttons{
-    text-align: left;
+    position: absolute; left: 550px;
 }
 
 .center{
@@ -45,4 +50,34 @@
 .c1{
     background-color: deepskyblue;
     border-radius: 10%;
+}
+
+.c2{
+    background-color: blueviolet;
+    border-radius: 10%;
+    display: inline-block;
+}
+
+.c3{
+    background-color: aquamarine;
+    border-radius: 10%;
+    display: inline-block;
+}
+
+.c4{
+    background-color: orange;
+    border-radius: 10%;
+    display: inline-block;
+}
+
+.c5{
+    background-color: deeppink;
+    border-radius: 10%;
+    display: inline-block;
+}
+
+.c6{
+    background-color: greenyellow;
+    border-radius: 10%;
+    display: inline-block;
 }
